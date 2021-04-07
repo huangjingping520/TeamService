@@ -8,7 +8,7 @@ A practice java project
 2. 创建相应的包(domain、service、view)
 3. 在domain包中创建Equipment接口并实现子类代码
 4. 在domain包中创建Employee类及其子类代码
-5. 检验代码正确性
+5. 检验代码的正确性
 
 ### 键盘访问的实现
 通过view包中的TSUtility.java类
